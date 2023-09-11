@@ -43,6 +43,8 @@ footer
     border-color: white;
     float: left;
 
+	position: static;
+
     padding: 15px;
 }
 
@@ -74,4 +76,9 @@ td
 table
 {
     border: 1px solid white;
+}
+
+img
+{
+	float: right;
 }
